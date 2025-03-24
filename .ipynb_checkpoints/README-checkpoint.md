@@ -1,6 +1,6 @@
 # Anticipating Humanitarian Emergencies with High Risk of Conflict-Induced Displacement Crises
 
-This repository contains the code and data for the study "Anticipating Humanitarian Emergencies with High Risk of Conflict-Induced Displacement Crises." The study explores machine learning methods to predict the onset of large-scale, conflict-related internal displacement in countries experiencing humanitarian emergencies. The code uses both python and R. 
+This repository contains the code and data for the study "Anticipating Humanitarian Emergencies with High Risk of Conflict-Induced Displacement Crises." The study explores machine learning methods to predict the onset of large-scale, conflict-related internal displacement in countries experiencing humanitarian emergencies.
 
 ## Overview
 
@@ -27,8 +27,7 @@ The datasets, scripts, and other relevant files are available on XXXX. Data supp
 
 1. **Installation**: Clone the repository and install the required dependencies listed in `requirements.txt`.
 2. **Running Models**: Use the provided scripts to train and evaluate the models.
-3. **Code Organization**: Separate Python notebooks are provided for training models for 1-month and 3-month forecasts. An R script is available for reproducing appendix figures.
-4. **Data Access**: Data files can be accessed and downloaded from the mentioned sources. Ensure proper citations when using the data.
+3. **Data Access**: Data files can be accessed and downloaded from the mentioned sources. Ensure proper citations when using the data.
 
 ## Limitations
 
