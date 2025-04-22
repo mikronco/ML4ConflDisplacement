@@ -25,7 +25,7 @@ The datasets, scripts, and other relevant files are available on XXXX. Data supp
 
 ## Usage
 
-1. **Installation**: Clone the repository and install the required dependencies listed in `requirements.txt`.
+1. **Installation**: Clone the repository and install the required dependencies by running from terminal `conda env create -f requirements.yml`.
 2. **Running Models**: Use the provided scripts to train and evaluate the models.
 3. **Code Organization**: Separate Python notebooks are provided for training models for 1-month and 3-month forecasts. An R script is available for reproducing appendix figures.
 4. **Data Access**: Data files can be accessed and downloaded from the mentioned sources. Ensure proper citations when using the data.
